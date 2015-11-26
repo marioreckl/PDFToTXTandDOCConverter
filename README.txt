@@ -7,5 +7,5 @@ How to execute:
 Navigate to the directory where the PDFToTXTandDOCConverter.jar is. 
 Once in that directory run: java -jar PDFToTXTandDOCConverter.jar
 
-
+Alternatively, the program can be run by double clicking the PDFToTXTandDOCConverter.jar file. 
 
